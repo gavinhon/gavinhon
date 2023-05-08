@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, I'm Gavin Hon 👋
 
-<!--
-**gavinhon/gavinhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gavinhon)
+[![Website](https://img.shields.io/badge/-Portfolio%20Website-1f425f.svg)](https://gavinhon.netlify.app/)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate software engineer based in Singapore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills and Technologies
+
+- Programming Languages: Javascript, Java, Python, Perl
+- Web Development: NodeJS, ReactJS, Vite, LuciadRIA, Leaflet, CesiumJS, ThreeJS, ExpressJS
+- Databases: PostgreSQL, MongoDB
+- Other Tools: QGIS, OGC Protocols
+
+## 💼 Experience
+
+- Hexagon: Presales Engineer, Nov 2022 - Present
+- Singapore Land Authority: Principal Geospatial Specialist, Nov 2019 - Nov 2022
+- Micron Technology: IT Engineer, Sep 2017 - Oct 2019
+
+## 🌱 Currently Learning
+
+I'm currently focused on learning fullstack development and consultancy to enhance my skills and stay up-to-date with industry trends.
+
+## 📊 GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinhon&show_icons=true&theme=radical)](https://github.com/gavinhon)
+
+Feel free to connect with me and explore my repositories. Let's collaborate and build amazing things together! 😄
