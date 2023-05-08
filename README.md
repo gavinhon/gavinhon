@@ -5,19 +5,6 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer based in Singapore.
 
-## 🚀 Skills and Technologies
-
-- Programming Languages: Javascript, Java, Python, Perl
-- Web Development: NodeJS, ReactJS, Vite, LuciadRIA, Leaflet, CesiumJS, ThreeJS, ExpressJS
-- Databases: PostgreSQL, MongoDB
-- Other Tools: QGIS, OGC Protocols
-
-## 💼 Experience
-
-- Hexagon: Presales Engineer, Nov 2022 - Present
-- Singapore Land Authority: Principal Geospatial Specialist, Nov 2019 - Nov 2022
-- Micron Technology: IT Engineer, Sep 2017 - Oct 2019
-
 ## 🌱 Currently Learning
 
 I'm currently focused on learning fullstack development and consultancy to enhance my skills and stay up-to-date with industry trends.
