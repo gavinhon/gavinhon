@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer based in Singap
 
 ## 🌱 Currently Learning
 
-I'm currently focused on learning fullstack development and consultancy to enhance my skills and stay up-to-date with industry trends.
+I'm currently focused on learning fullstack development and presales consultancy to enhance my skills and stay up-to-date with industry trends.
 
 ## 📊 GitHub Stats
 
