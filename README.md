@@ -1,16 +1,11 @@
 # Hello, I'm Gavin Hon 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gavinhon)
-[![Website](https://img.shields.io/badge/-Portfolio%20Website-1f425f.svg)](https://gavinhon.netlify.app/)
-
-Welcome to my GitHub profile! I'm a software engineer based in Singapore.
-
-## 📊 GitHub Stats
-
-![Gavin Hon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinhon&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinhon&layout=compact&theme=radical)
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-1f425f.svg?style=flat-square)](https://gavinhon.netlify.app/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gavinhon&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinhon&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=gavinhon&theme=radical)
 
-Feel free to connect with me and explore my repositories. Let's collaborate and build amazing things together! 😄
+---
+
+Welcome to my GitHub profile! I'm a software engineer based in Singapore. Feel free to explore my repositories. 😄
