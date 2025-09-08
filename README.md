@@ -9,4 +9,8 @@ Welcome to my GitHub profile! I'm a software engineer based in Singapore.
 
 ![Gavin Hon's GitHub stats](https://github-readme-stats-git-main-gavinhons-projects.vercel.app/api?username=gavinhon&show_icons=true&count_private=true&theme=radical&cache_bust=1)
 
+![Top Languages](https://github-readme-stats-git-main-gavinhons-projects.vercel.app/api/top-langs/?username=gavinhon&layout=compact&theme=radical&count_private=true&cache_bust=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gavinhon&theme=radical)
+
 Feel free to connect with me and explore my repositories. Let's collaborate and build amazing things together! 😄
