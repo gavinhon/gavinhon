@@ -7,10 +7,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gavinhon&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinhon&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=gavinhon&theme=radical)
 
 ---
